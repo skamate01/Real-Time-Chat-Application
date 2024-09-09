@@ -3,7 +3,7 @@
 ### Installation
 Open terminal and type the following command
 ```
-git clone https://github.com/visheshdvivedi/Real-Time-Chat-Application
+https://github.com/skamate01/Real-Time-Chat-Application
 ```
 Or you can directly download from this page\
 
